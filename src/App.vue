@@ -38,7 +38,7 @@ const hello = "hello"
 
 <template>
   <img alt="Vue logo" src="./assets/logo.png" />
-  <HelloWorld msg="Hello Vue 3 + TypeScript + Vite" />
+  <HelloWorld msg="Hello Vue 333 + TypeScript + Vite" />
   <Test :msg="hello"></Test>
 </template>
 
